@@ -1,6 +1,6 @@
-document.getElementById("mondul").innerText="hello javascripet";
+document.getElementById("mondul").innerText=" javascripet";
 let x,y,z;
 x=30;
 y=25;
-z=x+y
+z=x-y
 document.write(z);
